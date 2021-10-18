@@ -1,2 +1,3 @@
 # PositionalAudioMumblePlugin
-An EchoVR positional audio plugin for Mumble 
+A Win32 EchoVR positional audio plugin for Mumble,
+Written in C++
